@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'VEMD5080X01'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "VEMD5080X01" (!) = "", "VEMD5080X01", "Other", "78-VEMD5080X01", "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/VEMD5080X01?qs=AQlKX63v8RsWDlTFdMJfOQ%3D%3D", "PIN Photodiode 45uA 350-1070nm QFN", "", "0.9 mm"
+END_PART
+
+END.

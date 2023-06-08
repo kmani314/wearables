@@ -1,0 +1,16 @@
+.MAX32664GTGC-plus-T :1 ;Maxim SENSOR HUB W/ SPO2 & HR ALGORITHMS
+MAX32664GTGC
+*STM IC
+*NGS
+*PLB 1="MFIO" 2="D.N.C._1" 3="N.C." 4="D.N.C._2" 5="D.N.C._3" 6="RSTN" 7="VSS_1" 8="32KOUT" 9="32KIN" 10="VSS_2" 11="VDD_1" 12="VCORE" 13="SENSOR_SDA" 14="SENSOR_SCL" 15="NC" 16="D.N.C_1" 17="D.N.C_2" 18="HR_INT" 19="ACCEL_INT" 20="D.N.C_3" 21="D.N.C_4" 22="VDD_2" 23="SLAVE_SDA" 24="SLAVE_SCL" 25="EP"
+*MXP 25
+*DFN MAX32664GTGC-plus-T
+~!Mouser Part Number (700-MAX32664GTGC+T)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices-Maxim-Integrated/MAX32664GTGC%2bT?qs=vmHwEFxEFR%2FOyexmbdPM9g%3D%3D)
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (MAX32664GTGC+T)
+~!Link Datasheet (https://pdfserv.maximintegrated.com/en/ds/MAX32664.pdf)
+~!Height (0.8mm)
+~!3D_Model (MAX32664GTGC+T)
+MAX32664GTGC-plus-T
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 23.1!U 24.1!U 25.1!U 

@@ -1,0 +1,25 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model VEMD5080X01
+#/786572/1154143/2.50/4/4/Diode
+DEF VEMD5080X01 D 0 30 Y Y 1 F N
+F0 "D" 850 300 50 H V L CNN
+F1 "VEMD5080X01" 850 200 50 H V L CNN
+F2 "VEMD5080X01" 850 100 50 H I L CNN
+F3 "" 850 0 50 H I L CNN
+F4 "PIN Photodiode 45uA 350-1070nm QFN" 850 -100 50 H I L CNN "Description"
+F5 "0.9" 850 -200 50 H I L CNN "Height"
+F6 "78-VEMD5080X01" 850 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/VEMD5080X01?qs=AQlKX63v8RsWDlTFdMJfOQ%3D%3D" 850 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Vishay" 850 -500 50 H I L CNN "Manufacturer_Name"
+F9 "VEMD5080X01" 850 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X K_1 1 0 -100 200 R 50 50 0 0 P
+X K_2 2 1000 -100 200 L 50 50 0 0 P
+X NC 3 0 0 200 R 50 50 0 0 N
+X A 4 1000 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 800 100 800 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

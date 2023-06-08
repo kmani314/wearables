@@ -1,0 +1,10 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CTDBLP31.12-6C5D-56-J6U6-20-R18")(type "KiCad")(uri "${KIPRJMOD}/pretty/ctdblp31.12/CTDBLP31.12-6C5D-56-J6U6-20-R18.kicad_sym")(options "")(descr ""))
+  (lib (name "VEMD5080X01")(type "KiCad")(uri "${KIPRJMOD}/pretty/VEMD5080X01/VEMD5080X01/KiCad/VEMD5080X01.kicad_sym")(options "")(descr ""))
+  (lib (name "505110-2291")(type "KiCad")(uri "${KIPRJMOD}/pretty/molex_505110-2291/505110-2291/KiCad/505110-2291.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX86141ENP+T")(type "KiCad")(uri "${KIPRJMOD}/pretty/max86141/MAX86141ENP+T/KiCad/MAX86141ENP+T.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX77659AENV+")(type "KiCad")(uri "${KIPRJMOD}/pretty/max77659aenv+/MAX77659AENV+/KiCad/MAX77659AENV+.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX32664GTGC+T")(type "KiCad")(uri "${KIPRJMOD}/pretty/max32264/MAX32664GTGC+T/KiCad/MAX32664GTGC+T.kicad_sym")(options "")(descr ""))
+  (lib (name "TYPE-C-31-M-12")(type "KiCad")(uri "${KIPRJMOD}/pretty/type-c-31-m-12/TYPE-C-31-M-12.kicad_sym")(options "")(descr ""))
+)

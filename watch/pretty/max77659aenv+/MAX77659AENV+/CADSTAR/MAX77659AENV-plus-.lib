@@ -1,0 +1,17 @@
+.MAX77659AENV-plus- :1 ;Power Management Specialized - PMIC Single Ind PMIC for a switching mode charger & 3 buck-boost outputs
+BGA30C40P6X5_255X237X50
+*STM IC
+*NGS
+*PNM 1=A1 2=A2 3=A3 4=A4 5=A5 6=A6 7=B1 8=B2 9=B3 10=B4 11=B5 12=B6 13=C1 14=C2 15=C3 16=C4 17=C5 18=C6 19=D1 20=D2 21=D3 22=D4 23=D5 24=D6 25=E1 26=E2 27=E3 28=E4 29=E5 30=E6
+*PLB 1="BATT" 2="AVL" 3="THM" 4="AMUX" 5="GPIO0" 6="GPIO1" 7="SYS" 8="PVL" 9="TBIAS" 10="GND" 11="NRST" 12="NEN" 13="CHGIN" 14="IN_SBB" 15="SBB3_CHG" 16="SBB2" 17="NIRQ" 18="VIO" 19="LXA_1" 20="LXA_2" 21="LXB_1" 22="LXB_2" 23="SCL" 24="SDA" 25="PGND" 26="BST" 27="SBB0" 28="SBB1" 29="IN_LDO" 30="LDO"
+*MXP 30
+*DFN MAX77659AENV-plus-
+~!Mouser Part Number (700-MAX77659AENV+)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX77659AENV%2b?qs=Wj%2FVkw3K%252BMDJpM07aXge7g%3D%3D)
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (MAX77659AENV+)
+~!Link Datasheet (https://www.mouser.cn/datasheet/2/256/MAX77659-2529092.pdf)
+~!Height (0.5mm)
+~!3D_Model (MAX77659AENV+)
+MAX77659AENV-plus-
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 22.1!U 23.1!U 24.1!U 25.1!U 26.1!U 27.1!U 28.1!U 29.1!U 30.1!U 

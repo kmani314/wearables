@@ -1,0 +1,9 @@
+Manufacturer=Molex
+PartNumber=505110-2291
+PartCategory=Connector
+PackageCategory=Other
+PinCount=24
+Version=1.1
+Released=2018-11-28 18:27:48
+Downloaded=2023-06-07 18:14:48
+3D=Y

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX32664GTGC+T
+D Maxim SENSOR HUB W/ SPO2 & HR ALGORITHMS
+K
+F https://pdfserv.maximintegrated.com/en/ds/MAX32664.pdf
+$ENDCMP
+#
+#End Doc Library

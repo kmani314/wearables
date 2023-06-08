@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "MAX32664GTGC"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "MAX32664GTGC")
+        (spec "default")
+    )
+)

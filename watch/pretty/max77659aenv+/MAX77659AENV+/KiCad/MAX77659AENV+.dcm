@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX77659AENV+
+D Power Management Specialized - PMIC Single Ind PMIC for a switching mode charger & 3 buck-boost outputs
+K
+F https://www.mouser.cn/datasheet/2/256/MAX77659-2529092.pdf
+$ENDCMP
+#
+#End Doc Library

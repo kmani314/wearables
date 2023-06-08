@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MAX32664GTGC+T"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-10-28-13:45:46)
+    (mountForm default
+        (footprintRef "MAX32664GTGC")
+        (spec "System")
+    )
+)

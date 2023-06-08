@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "VEMD5080X01"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-02-27-14:40:06)
+    (mountForm default
+        (footprintRef "VEMD5080X01")
+        (spec "System")
+    )
+)

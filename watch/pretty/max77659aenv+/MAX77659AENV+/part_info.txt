@@ -1,0 +1,9 @@
+Manufacturer=Analog Devices
+PartNumber=MAX77659AENV+
+PartCategory=Integrated Circuit
+PackageCategory=BGA
+PinCount=30
+Version=1.1
+Released=2021-11-02 03:53:07
+Downloaded=2023-06-07 17:25:41
+3D=Y

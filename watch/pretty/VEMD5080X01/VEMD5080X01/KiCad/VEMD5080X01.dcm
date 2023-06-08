@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP VEMD5080X01
+D PIN Photodiode 45uA 350-1070nm QFN
+K
+F 
+$ENDCMP
+#
+#End Doc Library

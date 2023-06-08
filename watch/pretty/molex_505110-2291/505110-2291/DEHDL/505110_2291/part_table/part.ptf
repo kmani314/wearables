@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '505110_2291'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Molex", "505110-2291" (!) = "", "5051102291", "Other", "538-505110-2291", "https://www.mouser.co.uk/ProductDetail/Molex/505110-2291?qs=fSIr1QPo%2F%2FR7YZ33K34k0A%3D%3D", "MOLEX - 505110-2291 - CONNECTOR, FFC/FPC, RCPT, 22POS, 1ROW", "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/b28bd963ea1e683f48254479215f537a.pdf", "3.95 mm"
+END_PART
+
+END.

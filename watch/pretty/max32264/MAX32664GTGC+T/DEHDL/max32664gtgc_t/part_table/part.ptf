@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MAX32664GTGC_T'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "MAX32664GTGC+T" (!) = "", "MAX32664GTGC", "Other", "700-MAX32664GTGC+T", "https://www.mouser.co.uk/ProductDetail/Analog-Devices-Maxim-Integrated/MAX32664GTGC%2bT?qs=vmHwEFxEFR%2FOyexmbdPM9g%3D%3D", "Maxim SENSOR HUB W/ SPO2 & HR ALGORITHMS", "https://pdfserv.maximintegrated.com/en/ds/MAX32664.pdf", "0.8 mm"
+END_PART
+
+END.
