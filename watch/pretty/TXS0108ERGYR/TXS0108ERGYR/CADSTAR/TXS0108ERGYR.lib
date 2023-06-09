@@ -1,0 +1,16 @@
+.TXS0108ERGYR :1 ;8-Bit Bidirectional Voltage-Level Shifter For Open-Drain And Push-Pull Application
+SN74LVC541ARGYR
+*STM IC
+*NGS
+*PLB 1="A1" 2="VCCA" 3="A2" 4="A3" 5="A4" 6="A5" 7="A6" 8="A7" 9="A8" 10="OE" 11="GND" 12="B8" 13="B7" 14="B6" 15="B5" 16="B4" 17="B3" 18="B2" 19="VCCB" 20="B1" 21="EP"
+*MXP 21
+*DFN TXS0108ERGYR
+~!Mouser Part Number (595-TXS0108ERGYR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TXS0108ERGYR?qs=dqESbKqT1jau1kZv8JPj9Q%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TXS0108ERGYR)
+~!Link Datasheet (http://www.ti.com/lit/gpn/txs0108e)
+~!Height (1mm)
+~!3D_Model (TXS0108ERGYR)
+TXS0108ERGYR
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 18.1!U 19.1!U 20.1!U 21.1!U 

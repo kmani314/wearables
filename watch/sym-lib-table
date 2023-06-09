@@ -7,4 +7,6 @@
   (lib (name "MAX77659AENV+")(type "KiCad")(uri "${KIPRJMOD}/pretty/max77659aenv+/MAX77659AENV+/KiCad/MAX77659AENV+.kicad_sym")(options "")(descr ""))
   (lib (name "MAX32664GTGC+T")(type "KiCad")(uri "${KIPRJMOD}/pretty/max32264/MAX32664GTGC+T/KiCad/MAX32664GTGC+T.kicad_sym")(options "")(descr ""))
   (lib (name "TYPE-C-31-M-12")(type "KiCad")(uri "${KIPRJMOD}/pretty/type-c-31-m-12/TYPE-C-31-M-12.kicad_sym")(options "")(descr ""))
+  (lib (name "TXS0108ERGYR")(type "KiCad")(uri "${KIPRJMOD}/pretty/TXS0108ERGYR/TXS0108ERGYR/KiCad/TXS0108ERGYR.kicad_sym")(options "")(descr ""))
+  (lib (name "APX803")(type "KiCad")(uri "${KIPRJMOD}/pretty/APX803/APX803.kicad_sym")(options "")(descr ""))
 )
