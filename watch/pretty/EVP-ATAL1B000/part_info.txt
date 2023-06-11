@@ -1,0 +1,9 @@
+Manufacturer=Panasonic
+PartNumber=EVP-ATAL1B000
+PartCategory=Switch
+PackageCategory=Other
+PinCount=7
+Version=1.8
+Released=2021-08-08 04:16:00
+Downloaded=2023-06-11 19:29:34
+3D=Y

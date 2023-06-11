@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "FA-128_32_0000MF10Z-AJ5"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-10-21-09:11:41)
+    (mountForm default
+        (footprintRef "FA128320000MF10ZAJ5")
+        (spec "System")
+    )
+)

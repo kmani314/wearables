@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_662462"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-04-17-17:19:31)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "VLMO20J2M1-GS08")
+)
+
+
+(pinAssign "ECS_662462"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-04-17-17:19:31)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_662462")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "VLMO20J2M1-GS08")
+)
+
+
+(part "VLMO20J2M1-GS08"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-04-17-17:19:31)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "VLMO20J2M1-GS08")
+    (pinAssignRef "ECS_662462")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "LED")
+    (property "description" "Standard LEDs - SMD Orange Clr Non-Diff")
+    (property "Mouser_Part_Number" "78-VLMO20J2M1")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/VLMO20J2M1-GS08?qs=F8HfwHd0zjc6O1qXGyFshQ%3D%3D")
+    (property "Manufacturer_Name" "Vishay")
+    (property "Manufacturer_Part_Number" "VLMO20J2M1-GS08")
+    (property "Datasheet_Link" "https://www.vishay.com/docs/81339/vlms20.pdf")
+    (property "compAreaTopHeight" 1.4)
+)
+
+

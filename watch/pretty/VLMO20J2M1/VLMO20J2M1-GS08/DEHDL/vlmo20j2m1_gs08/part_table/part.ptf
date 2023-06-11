@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'VLMO20J2M1_GS08'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "VLMO20J2M1-GS08" (!) = "", "LEDM2214X140N", "LED Moulded", "78-VLMO20J2M1", "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/VLMO20J2M1-GS08?qs=F8HfwHd0zjc6O1qXGyFshQ%3D%3D", "Standard LEDs - SMD Orange Clr Non-Diff", "https://www.vishay.com/docs/81339/vlms20.pdf", "1.4 mm"
+END_PART
+
+END.

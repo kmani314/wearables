@@ -1,0 +1,16 @@
+.FA-128_32.0000MF10Z-AJ5 :1 ;Crystals MINI XTL MHZ +/-10PPM +/-10PPM-20~75C 8.0PF 3K TR
+FA128320000MF10ZAJ5
+*STM Y
+*NGS
+*PLB 1="CRYSTAL_1" 2="GROUND_1" 3="CRYSTAL_2" 4="GROUND_2"
+*MXP 4
+*DFN FA-128_32.0000MF10Z-AJ5
+~!Mouser Part Number (732-FA-12832MF10ZAJ5)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Epson-Timing/FA-128-32.0000MF10Z-AJ5?qs=f9yNj16SXrIo2JFkAYOmQA%3D%3D)
+~!Manufacturer_Name (Epson Timing)
+~!Manufacturer_Part_Number (FA-128 32.0000MF10Z-AJ5)
+~!Link Datasheet (https://www.arrow.com/en/products/fa-128-32.0000mf10z-aj5/epson-electronics-america)
+~!Height (0.5mm)
+~!3D_Model (FA-128_32.0000MF10Z-AJ5)
+FA-128_32.0000MF10Z-AJ5
+1.1!U 2.1!U 3.1!U 4.1!U 

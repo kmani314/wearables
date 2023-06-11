@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CM7V-T1A-32.768kHz-6pF-20PPM-TA-QC
+D CM7V-T1A Crystal SMD 32.768kHz 3.2x1.5mm Crystal 32.768kHz, +/-10ppm, 2-Pin SMD, 3.2 x 1.5 x 0.65mm
+K
+F https://www.mouser.de/datasheet/2/530/CM7V_T1A-1957503.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,16 @@
+.CM7V-T1A-32.768kHz-6pF-20PPM-TA-QC :1 ;CM7V-T1A Crystal SMD 32.768kHz 3.2x1.5mm Crystal 32.768kHz, +/-10ppm, 2-Pin SMD, 3.2 x 1.5 x 0.65mm
+CM7V32768TBQA020
+*STM Y
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN CM7V-T1A-32.768kHz-6pF-20PPM-TA-QC
+~!Mouser Part Number (428-201843-MG01)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Micro-Crystal/CM7V-T1A-32.768kHz-6pF-20PPM-TA-QC?qs=7bTaA%2FLYtSZ7ZoUG8vJXMg%3D%3D)
+~!Manufacturer_Name (Micro Crystal AG)
+~!Manufacturer_Part_Number (CM7V-T1A-32.768kHz-6pF-20PPM-TA-QC)
+~!Link Datasheet (https://www.mouser.de/datasheet/2/530/CM7V_T1A-1957503.pdf)
+~!Height (0.65mm)
+~!3D_Model (CM7V-T1A-32.768kHz-6pF-20PPM-TA-QC)
+CM7V-T1A-32.768kHz-6pF-20PPM-TA-QC
+1.1!U 2.1!U 

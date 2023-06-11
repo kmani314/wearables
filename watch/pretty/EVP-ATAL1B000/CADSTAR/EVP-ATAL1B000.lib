@@ -1,0 +1,17 @@
+.EVP-ATAL1B000 :1 ;Tactile Switches Edge Mount side push 1.6N 4.3x1.7mm
+EVPATAL1B000
+*STM S
+*NGS
+*PNM 1=1 2=2 3=MH1 4=MH2 5=MP1 6=MP2 7=MP3
+*PLB 1="NO" 2="COM" 3="MH1" 4="MH2" 5="MP1" 6="MP2" 7="MP3"
+*MXP 7
+*DFN EVP-ATAL1B000
+~!Mouser Part Number (667-EVP-ATAL1B000)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Panasonic/EVP-ATAL1B000?qs=7MVldsJ5Uawk2dHgJdanKg%3D%3D)
+~!Manufacturer_Name (Panasonic)
+~!Manufacturer_Part_Number (EVP-ATAL1B000)
+~!Link Datasheet (-)
+~!Height (1.105mm)
+~!3D_Model (EVP-ATAL1B000)
+EVP-ATAL1B000
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 

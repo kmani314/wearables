@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_906963"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-08-28-22:03:38)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "CM7V-T1A-32_768kHz-6pF-20PPM-T")
+)
+
+
+(pinAssign "ECS_906963"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-08-28-22:03:38)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_906963")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "CM7V-T1A-32_768kHz-6pF-20PPM-T")
+)
+
+
+(part "CM7V-T1A-32_768kHz-6pF-20PPM-T"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-08-28-22:03:38)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "CM7V-T1A-32_768kHz-6pF-20PPM-T")
+    (pinAssignRef "ECS_906963")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "Y")
+    (property "description" "CM7V-T1A Crystal SMD 32.768kHz 3.2x1.5mm Crystal 32.768kHz, +/-10ppm, 2-Pin SMD, 3.2 x 1.5 x 0.65mm")
+    (property "Mouser_Part_Number" "428-201843-MG01")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Micro-Crystal/CM7V-T1A-32.768kHz-6pF-20PPM-TA-QC?qs=7bTaA%2FLYtSZ7ZoUG8vJXMg%3D%3D")
+    (property "Manufacturer_Name" "Micro Crystal AG")
+    (property "Manufacturer_Part_Number" "CM7V-T1A-32.768kHz-6pF-20PPM-TA-QC")
+    (property "Datasheet_Link" "https://www.mouser.de/datasheet/2/530/CM7V_T1A-1957503.pdf")
+    (property "compAreaTopHeight" 0.65)
+)
+
+

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "VLMO20J2M1-GS08"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-04-17-17:19:31)
+    (mountForm default
+        (footprintRef "LEDM2214X140N")
+        (spec "System")
+    )
+)

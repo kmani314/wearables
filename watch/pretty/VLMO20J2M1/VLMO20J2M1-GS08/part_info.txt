@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=VLMO20J2M1-GS08
+PartCategory=LED
+PackageCategory=LED Moulded
+PinCount=2
+Version=1.1
+Released=2020-04-17 17:19:31
+Downloaded=2023-06-09 18:08:05
+3D=N

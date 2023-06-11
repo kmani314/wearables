@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'FA_128_32.0000MF10Z_AJ5'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Epson Timing", "FA-128 32.0000MF10Z-AJ5" (!) = "", "FA128320000MF10ZAJ5", "Other", "732-FA-12832MF10ZAJ5", "https://www.mouser.co.uk/ProductDetail/Epson-Timing/FA-128-32.0000MF10Z-AJ5?qs=f9yNj16SXrIo2JFkAYOmQA%3D%3D", "Crystals MINI XTL MHZ +/-10PPM +/-10PPM-20~75C 8.0PF 3K TR", "https://www.arrow.com/en/products/fa-128-32.0000mf10z-aj5/epson-electronics-america", "0.5 mm"
+END_PART
+
+END.
