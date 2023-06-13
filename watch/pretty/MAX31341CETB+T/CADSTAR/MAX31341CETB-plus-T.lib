@@ -1,0 +1,16 @@
+.MAX31341CETB-plus-T :1 ;Real Time Clock Serial I2C 64Bytes 10-Pin TDFN T/R
+SON50P300X300X80-11N
+*STM IC
+*NGS
+*PLB 1="X2" 2="GND" 3="SDA" 4="SCL" 5="'INTB'/ CLKOUT" 6="D1" 7="'INTA'/ CLKIN" 8="AIN" 9="VCC" 10="X1" 11="EP"
+*MXP 11
+*DFN MAX31341CETB-plus-T
+~!Mouser Part Number (700-MAX31341CETB+T)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX31341CETB%2bT?qs=sPbYRqrBIVlk%252BGgVjH6I%2Fg%3D%3D)
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (MAX31341CETB+T)
+~!Link Datasheet (https://www.mouser.de/datasheet/2/256/MAX31341B-MAX31341C-1855887.pdf)
+~!Height (0.8mm)
+~!3D_Model (MAX31341CETB+T)
+MAX31341CETB-plus-T
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 11.1!U 10.1!U 9.1!U 8.1!U 7.1!U 6.1!U 

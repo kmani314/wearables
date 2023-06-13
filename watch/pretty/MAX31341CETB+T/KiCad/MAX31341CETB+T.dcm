@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX31341CETB+T
+D Real Time Clock Serial I2C 64Bytes 10-Pin TDFN T/R
+K
+F https://www.mouser.de/datasheet/2/256/MAX31341B-MAX31341C-1855887.pdf
+$ENDCMP
+#
+#End Doc Library

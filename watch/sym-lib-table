@@ -14,4 +14,5 @@
   (lib (name "CM7V-T1A-32_768kHz-6pF-20PPM-T")(type "KiCad")(uri "${KIPRJMOD}/pretty/CM7V-XTAL/CM7V-T1A-32.768kHz-6pF-20PPM-TA-QC/KiCad/CM7V-T1A-32_768kHz-6pF-20PPM-T.kicad_sym")(options "")(descr ""))
   (lib (name "FA-128_32_0000MF10Z-AJ5")(type "KiCad")(uri "${KIPRJMOD}/pretty/FA-128_32.0000MF10Z-AJ5/KiCad/FA-128_32_0000MF10Z-AJ5.kicad_sym")(options "")(descr ""))
   (lib (name "EVP-ATAL1B000")(type "KiCad")(uri "${KIPRJMOD}/pretty/EVP-ATAL1B000/KiCad/EVP-ATAL1B000.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX31341CETB+T")(type "KiCad")(uri "${KIPRJMOD}/pretty/MAX31341CETB+T/KiCad/MAX31341CETB+T.kicad_sym")(options "")(descr ""))
 )
