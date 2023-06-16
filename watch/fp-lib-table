@@ -14,4 +14,5 @@
   (lib (name "EVP-ATAL1B000")(type "KiCad")(uri "${KIPRJMOD}/pretty/EVP-ATAL1B000/KiCad")(options "")(descr ""))
   (lib (name "mounting")(type "KiCad")(uri "${KIPRJMOD}/pretty/custom/mounting.pretty")(options "")(descr ""))
   (lib (name "MAX31341CETB+T")(type "KiCad")(uri "${KIPRJMOD}/pretty/MAX31341CETB+T/KiCad")(options "")(descr ""))
+  (lib (name "custom")(type "KiCad")(uri "${KIPRJMOD}/pretty/custom")(options "")(descr ""))
 )
