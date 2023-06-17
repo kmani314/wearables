@@ -13,5 +13,5 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 0108bd90-d908-400e-be77-f7cfa9ec48f9)
   )
-  (pad "" np_thru_hole circle (at 0 0) (size 1.5 1.5) (drill 1.5) (layers "F&B.Cu" "*.Mask") (tstamp f14722d0-9fe5-4d41-89c8-d12c4c0ba112))
+  (pad "" np_thru_hole circle (at 0 0) (size 2 2) (drill 2) (layers "F&B.Cu" "*.Mask") (tstamp f14722d0-9fe5-4d41-89c8-d12c4c0ba112))
 )
